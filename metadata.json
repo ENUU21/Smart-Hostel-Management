@@ -1,0 +1,6 @@
+{
+  "name": "Smart Hostel Management System",
+  "description": "Smart Hostel Management System Web Edition with Warden and Student portals, room allocation, complaints, leave gate passes, room transfers, and notices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
